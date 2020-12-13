@@ -28,3 +28,26 @@ Oddity also provides a few other tools along with anomaly detection, such as:
 - Periodicity inference
 
 More functionality along with general optimizations will be added in the future.
+
+Currently Oddity is intended to be used on static datasets, however online learning can potentially be implemented by using a rolling/sliding window. With enough hacking, it can potentially also be used for forecasting.
+
+## Oddity Demo
+
+Web app demo of the Oddity engine detecting anomalies in some data sets. The web app was deployed on a google cloud kubernetes cluster open to the public, but will not be forever available due to ressource reasons. 
+
+- A local version of the web app can still be run by follwing the instructions on: [https://github.com/Lleyton-Ariton/oddity-demo](https://github.com/Lleyton-Ariton/oddity-demo)
+
+<p align="center">
+  <img src="./imgs/oddity-demo.gif" alt="Oddity Demo: flagging severe anomalies"/>
+</p>
+
+## Important Links
+
+The following are some important links for more information:
+
+- PyPi:
+ - [https://pypi.org/project/oddity/](https://pypi.org/project/oddity/)
+- Oddity Engine (Rust)
+ - [https://github.com/Lleyton-Ariton/oddity-engine](https://github.com/Lleyton-Ariton/oddity-engine)
+- Oddity Demo
+ - [https://github.com/Lleyton-Ariton/oddity-demo](https://github.com/Lleyton-Ariton/oddity-demo)
