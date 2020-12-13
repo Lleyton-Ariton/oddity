@@ -45,9 +45,8 @@ Web app demo of the Oddity engine detecting anomalies in some data sets. The web
 
 The following are some important links for more information:
 
-- PyPi:
- - [https://pypi.org/project/oddity/](https://pypi.org/project/oddity/)
-- Oddity Engine (Rust)
- - [https://github.com/Lleyton-Ariton/oddity-engine](https://github.com/Lleyton-Ariton/oddity-engine)
-- Oddity Demo
- - [https://github.com/Lleyton-Ariton/oddity-demo](https://github.com/Lleyton-Ariton/oddity-demo)
+> PyPi: [https://pypi.org/project/oddity/](https://pypi.org/project/oddity/)
+
+> Oddity Engine (Rust): [https://github.com/Lleyton-Ariton/oddity-engine](https://github.com/Lleyton-Ariton/oddity-engine)
+
+> Oddity Demo: [https://github.com/Lleyton-Ariton/oddity-demo](https://github.com/Lleyton-Ariton/oddity-demo)
