@@ -12,6 +12,12 @@
 
 # Oddity: Time Series Anomaly Detection
 
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-light.svg)](https://opensource.org/licenses/)
+[![GitHub Release](https://img.shields.io/github/release/Lleyton-Ariton/oddity.svg?style=flat)]()
+[![PyPi Version](https://img.shields.io/pypi/v/oddity.svg)](https://pypi.python.org/pypi/oddity/)
+[![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg)](https://www.rust-lang.org/)
+
+
 Oddity is a time series anomaly detection tool for Python, implemented in Rust. Oddity is capable of learning trend, global seasonality and even local seasonality from time series data, and works best in these situations.
 
 <p align="center">
