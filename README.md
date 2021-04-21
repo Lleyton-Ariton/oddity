@@ -57,5 +57,7 @@ The following are some important links for more information:
 
 > Oddity Demo: [https://github.com/Lleyton-Ariton/oddity-demo](https://github.com/Lleyton-Ariton/oddity-demo)
 
+> Example/Tutorial: [https://medium.com/houston-we-have-a-problem-anomaly-detection-methods](https://medium.com/analytics-vidhya/houston-we-have-a-problem-anomaly-detection-methods-2d6e2ebc12c0)
+
 ## Extra
 For some extra information on time series data/anomaly detection, you can check out my medum article series [*Houston, we have a problem*](https://lleyton-ariton.medium.com/houston-we-have-a-problem-time-series-anomaly-detection-4ab48c10dd01).
